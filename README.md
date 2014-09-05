@@ -1,6 +1,6 @@
 # AIOs
 
-[Current Week](aios/aio_8_29_14.md)
+[Current Week](aios/aio_9_5_14.md)
 
 
 ## What is this
