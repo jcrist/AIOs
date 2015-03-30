@@ -1,6 +1,6 @@
 # AIOs
 
-[Current Week](aios/aio_10_31_14.md)
+[Current Week](aios/aio_3_30_15.md)
 
 
 ## What is this
@@ -27,4 +27,4 @@ I'm accomplishing something. The format for each week is as follows:
 - Things I plan on tinkering on in some spare moments for the foreseeable
   future. Too long to do in a single week.
 
-I'll fill one of these out every Friday.
+I'll fill one of these out every Monday.
